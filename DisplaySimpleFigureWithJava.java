@@ -17,6 +17,7 @@ System.out.println("*****");
 public static void fourStar(){
 System.out.println("****");
 }
+System.out.println("new message ");
 }
 
 
